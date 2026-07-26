@@ -54,6 +54,10 @@
 
 通用订阅：`https://sub1.linlujs-1.men/lll/5d49f3b69cf1cb537a60b5a7da850b89`
 
+### 九、skylumo 机场（无到期时间，9500G不限时永久流量包）  
+
+通用订阅：`http://skylumo.com/api/v1/client/subscribe?token=ea1a85823f90daeede77a7d5c615d3cc`
+
 ---
 
 ## 实用海外网站推荐
