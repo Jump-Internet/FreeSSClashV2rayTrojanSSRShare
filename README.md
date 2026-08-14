@@ -1,6 +1,6 @@
 # 2026 翻墙机场免费节点订阅分享（持续更新）
 
-最后更新时间：2026-07-26
+最后更新时间：2026-08-14
 
 本文持续整理手中闲置的翻墙机场订阅，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -22,11 +22,11 @@
 
 ## 机场订阅推荐
 
-### 一、NaiU_Net 机场（2026-08-10到期，月租流量 100G）  
+### 一、prprCloud 机场（2026-09-14到期，月租流量 550G）  
 
-通用订阅：`https://times1784560936.subnodejs-naiu.com/v2b/naiu/api/v1/client/subscribe?token=d68a9cc59329e7cf0f7da2cb3d1c4da7`
+通用订阅：`https://ticket.12306.rip/ss/192634/ACGTgfW6DR8H5oKdabWHnxRT`
 
-### 二、berylcloud 机场（2027/9/10 到期，月租流量 500G）  
+### 二、berylcloud 机场（2027/12/10 到期，月租流量 500G）  
 
 通用订阅：`http://199.180.115.130/ff23f/6914ae2d2d8b04ba36b759e36d188a56`
 
