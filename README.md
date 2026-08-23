@@ -1,6 +1,6 @@
 # 2026 翻墙机场免费节点订阅分享（持续更新）
 
-最后更新时间：2026-08-14
+最后更新时间：2026-08-23
 
 本文持续整理手中闲置的翻墙机场订阅，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -67,7 +67,9 @@
 - **[chatgpt会员充值](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)**  
   提供 GPT Plus/Pro 账号充值与使用服务，正规安全、下单便捷、30 天质保承诺，适合学习办公与创作使用！
   
-  👉 [网站地址](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
+ 👉 [网站地址1](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
+  </br></br>
+  👉 [网站地址2](https://www.gptpro.xin/?refer=Y6use8uF&channelCode=gptpro)
 
 - **[爱壹帆](https://www.iyf.tv/)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
