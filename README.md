@@ -1,6 +1,6 @@
 # 2026 翻墙机场免费节点订阅分享（持续更新）
 
-最后更新时间：2026-08-23
+最后更新时间：2026-09-10
 
 本文持续整理手中闲置的翻墙机场订阅，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -52,7 +52,7 @@
 
 ### 八、灵鹿加速 机场（2026-11-03 到期，月租流量 1000G）  
 
-通用订阅：`https://sub1.linlujs-1.men/lll/5d49f3b69cf1cb537a60b5a7da850b89`
+通用订阅：`https://sub3.linlujs-3.men/lll/o-9mxK3Ab3GRgdny5NEQUsS3BSIbkSwphfaRW9euz_VrB0P9bOxGt2LL0v0iNdT9`
 
 ### 九、skylumo 机场（无到期时间，9500G不限时永久流量包）  
 
