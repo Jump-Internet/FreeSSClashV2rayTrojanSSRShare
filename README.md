@@ -1,6 +1,6 @@
 # 2026 翻墙机场免费节点订阅分享（持续更新）
 
-最后更新时间：2026-09-10
+最后更新时间：2026-09-16
 
 本文持续整理手中闲置的翻墙机场订阅，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -22,9 +22,9 @@
 
 ## 机场订阅推荐
 
-### 一、prprCloud 机场（2026-09-14到期，月租流量 550G）  
+### 一、prprCloud 机场（2026-10-16到期，月租流量 424G）  
 
-通用订阅：`https://ticket.12306.rip/ss/192634/ACGTgfW6DR8H5oKdabWHnxRT`
+通用订阅：`https://ticket.12306.rip/ss/194632/S4AUC7yqtke8F5amSAN6ShpM`
 
 ### 二、berylcloud 机场（2027/12/10 到期，月租流量 500G）  
 
@@ -63,13 +63,6 @@
 ## 实用海外网站推荐
 
 这些网站能帮助你解决临时验证、下载视频、寻找经典游戏等需求，让你的海外体验更加丰富便捷：
-
-- **[chatgpt会员充值](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)**  
-  提供 GPT Plus/Pro 账号充值与使用服务，正规安全、下单便捷、30 天质保承诺，适合学习办公与创作使用！
-  
- 👉 [网站地址1](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
-  </br></br>
-  👉 [网站地址2](https://www.gptpro.xin/?refer=Y6use8uF&channelCode=gptpro)
 
 - **[爱壹帆](https://www.iyf.tv/)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
