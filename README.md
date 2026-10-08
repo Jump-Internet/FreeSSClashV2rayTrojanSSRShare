@@ -30,7 +30,7 @@
 
 通用订阅：`http://38.59.246.49/ff23f/6914ae2d2d8b04ba36b759e36d188a56`
 
-### 三、OK云 机场（无到期时间，1000G不限时永久流量包，需手动到官网启用后才能复制使用，联系TG：https://t.me/kioj32howqwf）  
+### 三、OK云 机场（无到期时间，1000G不限时永久流量包，需手动到官网启用后才能导入，联系TG： 👉 [点这里](https://t.me/kioj32howqwf)）  
 
 通用订阅：`https://life.xn--blqv68cix3a.com/ru/ok?token=3abb1b2cc8b4de362807eeb70cbbec8e`
 
