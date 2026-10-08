@@ -28,11 +28,11 @@
 
 ### 二、berylcloud 机场（2027/12/10 到期，月租流量 500G）  
 
-通用订阅：`http://199.180.115.130/ff23f/6914ae2d2d8b04ba36b759e36d188a56`
+通用订阅：`http://38.59.246.49/ff23f/6914ae2d2d8b04ba36b759e36d188a56`
 
-### 三、bocchi 机场（2026/9/20 到期，月租流量 100G）  
+### 三、OK云 机场（无到期时间，1000G不限时永久流量包，需手动到官网启用后才能复制使用，联系TG：https://t.me/kioj32howqwf）  
 
-通用订阅：`https://qaq.atami.top/bilibili/b99f77da3c1b4837827a5a285862e967`
+通用订阅：`https://life.xn--blqv68cix3a.com/ru/ok?token=3abb1b2cc8b4de362807eeb70cbbec8e`
 
 ### 四、秒连云 机场（无到期时间，320G不限时永久流量包）  
 
@@ -44,17 +44,13 @@
 
 ### 六、CloudRoaming 机场（2027-05-11 到期，月租流量 100G）  
 
-通用订阅：`https://xxxxxxxxxx.cloudroaming.net/s/98032557ac6ba55338b11d704da47b18`
+通用订阅：`https://xxxxmxxxx.cloudroaming.net/s/98032557ac6ba55338b11d704da47b18`
 
 ### 七、52Cloud 机场（无到期时间，538G不限时永久流量包）  
 
 通用订阅：`http://121.4.210.202:52521/link/F6m5oAxD0DIEvWJ4?sub=2&extend=1`
 
-### 八、灵鹿加速 机场（2026-11-03 到期，月租流量 1000G）  
-
-通用订阅：`https://sub3.linlujs-3.men/lll/o-9mxK3Ab3GRgdny5NEQUsS3BSIbkSwphfaRW9euz_VrB0P9bOxGt2LL0v0iNdT9`
-
-### 九、skylumo 机场（无到期时间，9500G不限时永久流量包）  
+### 八、skylumo 机场（无到期时间，9500G不限时永久流量包）  
 
 通用订阅：`http://skylumo.com/api/v1/client/subscribe?token=ea1a85823f90daeede77a7d5c615d3cc`
 
