@@ -1,6 +1,6 @@
 # 2026 翻墙机场免费节点订阅分享（持续更新）
 
-最后更新时间：2026-09-16
+最后更新时间：2026-10-22
 
 本文持续整理手中闲置的翻墙机场订阅，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -22,9 +22,9 @@
 
 ## 机场订阅推荐
 
-### 一、prprCloud 机场（2026-10-16到期，月租流量 424G）  
+### 一、skylumo 机场（无到期时间，9500G不限时永久流量包）  
 
-通用订阅：`https://ticket.12306.rip/ss/194632/S4AUC7yqtke8F5amSAN6ShpM`
+通用订阅：`http://skylumo.com/api/v1/client/subscribe?token=ea1a85823f90daeede77a7d5c615d3cc`
 
 ### 二、berylcloud 机场（2027/12/10 到期，月租流量 500G）  
 
@@ -50,10 +50,6 @@
 
 通用订阅：`http://121.4.210.202:52521/link/F6m5oAxD0DIEvWJ4?sub=2&extend=1`
 
-### 八、skylumo 机场（无到期时间，9500G不限时永久流量包）  
-
-通用订阅：`http://skylumo.com/api/v1/client/subscribe?token=ea1a85823f90daeede77a7d5c615d3cc`
-
 ---
 
 ## 实用海外网站推荐
@@ -75,6 +71,25 @@
   
   👉 [网站地址](https://addyoutube.com/)
 
+- **[一诺社工库](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)
+
+- **[情报部社工库](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)
+
+- **[天眼社工库](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)
+
+- **[查档王社工库](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)
 ---
 
 😊 **最后**：  
